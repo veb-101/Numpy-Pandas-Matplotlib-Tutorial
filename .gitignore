@@ -125,6 +125,5 @@ dmypy.json
 */.ipynb_checkpoints/*
 */.vscode/*
 */__pycache__/*
-Hands-On Machine Learning with Scikit-Learn and TensorFlow - Geron.pdf
-Hands-on-Machine-Learning-with-Scikit-2E.pdf
 desktop.ini
+numpy/.ipynb_checkpoints/Numpy basic tutorial-checkpoint.ipynb
