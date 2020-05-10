@@ -1,6 +1,6 @@
 ### Tutorial notebooks on numpy, pandas and matplolib
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veb-101/Numpy-Pandas-Matplotlib-Tutorial/master) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial/issues) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial/pulls)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veb-101/Numpy-Pandas-Matplotlib-Tutorial/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veb-101/Numpy-Pandas-Matplotlib-Tutorial/blob/master/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial/issues) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial/pulls)
 __________
 
 
