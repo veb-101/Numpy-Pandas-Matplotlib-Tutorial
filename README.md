@@ -3,6 +3,22 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veb-101/Numpy-Pandas-Matplotlib-Tutorial/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veb-101/Numpy-Pandas-Matplotlib-Tutorial/blob/master/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial/issues) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial/pulls)
 __________
 
+<img src="logo.png" height=350px width="1500">
+
+* Run online using either [binder](https://mybinder.org/v2/gh/veb-101/Numpy-Pandas-Matplotlib-Tutorial/master) or [colab](https://colab.research.google.com/github/veb-101/Numpy-Pandas-Matplotlib-Tutorial/blob/master/).
+* To run on your local machine; execute in either CMD or Terminal
+
+```shell
+git clone https://github.com/veb-101/Numpy-Pandas-Matplotlib-Tutorial.git
+cd Numpy-Pandas-Matplotlib-Tutorial
+```
+
+* Then install the required libraries (requires **python3**)
+
+```shell
+python -m pip install -r requirements.txt (for windows)
+python3 -m pip install -r requirements.txt (for linux)
+```
 
 | Sr. No. | Topic      | Notebook                                                                                                                                                                                                    |
 | ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
